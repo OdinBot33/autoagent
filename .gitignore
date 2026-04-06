@@ -20,4 +20,16 @@ tasks-archived-sheets/
 tasks-sheets-verified/
 tasks-sheets/
 
-dev/
+dev/.env
+cathedral-lab/distilled/
+cathedral-lab/generations/
+cathedral-lab/feedback/
+cathedral-lab/logs/
+cathedral-lab/deploy-backups/
+cathedral-lab/model-registry.json
+cathedral-lab/model-benchmarks.json
+*.log
+jobs/
+run.log
+results.tsv
+.race-*

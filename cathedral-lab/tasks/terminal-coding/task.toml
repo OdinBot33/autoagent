@@ -1,0 +1,10 @@
+[task]
+name = "terminal-coding-basic"
+description = "Write a Python CLI tool that processes JSON data"
+timeout_seconds = 300
+max_attempts = 1
+
+[task.metadata]
+difficulty = "medium"
+category = "coding"
+source = "cathedral-lab"

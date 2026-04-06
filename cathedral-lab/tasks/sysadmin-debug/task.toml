@@ -1,0 +1,10 @@
+[task]
+name = "sysadmin-debug"
+description = "Diagnose and fix a broken web server configuration"
+timeout_seconds = 300
+max_attempts = 1
+
+[task.metadata]
+difficulty = "hard"
+category = "sysadmin"
+source = "cathedral-lab"

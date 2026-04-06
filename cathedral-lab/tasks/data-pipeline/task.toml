@@ -1,0 +1,10 @@
+[task]
+name = "data-pipeline"
+description = "Build a data processing pipeline that cleans, transforms, and analyzes CSV data"
+timeout_seconds = 300
+max_attempts = 1
+
+[task.metadata]
+difficulty = "medium"
+category = "data"
+source = "cathedral-lab"
